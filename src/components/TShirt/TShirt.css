@@ -1,0 +1,16 @@
+.t-shirt{
+    border: 1px solid rgb(198, 234, 198);
+    border-radius: 10px;
+    padding: 10px;
+}
+.t-shirt img{
+    height: 200px;
+    width: 250px;
+    border-radius: 12px;
+}
+.t-shirt button{
+    width: 100%;
+    background-color: rgb(31, 163, 31);
+    color: white;
+    margin-top: auto;
+}

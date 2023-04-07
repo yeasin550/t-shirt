@@ -1,0 +1,28 @@
+.cart-container{
+    position: sticky;
+    top: 0;
+}
+.orange{
+    background-color: orange;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.blue{
+    background-color: blue;
+}
+.tomato{
+    background-color: tomato;
+}
+.yellow{
+    background-color: yellow;
+}
+.bold{
+    font-weight: bold;
+}
+.underline{
+    text-decoration: underline;
+}
